@@ -1,18 +1,12 @@
-# Gnapse Tap
+# gnapse/tap
 
-## How do I install these formulae?
+[Pixamp](https://pixamp.app), the Mac music player for classic Winamp skins.
 
-`brew install gnapse/tap/<formula>`
+The first release is coming soon. Then:
 
-Or `brew tap gnapse/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "gnapse/tap"
-brew "<formula>"
+```sh
+brew install --cask gnapse/tap/pixamp
 ```
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+This also puts the `pixamp` command on your PATH. `brew uninstall --zap pixamp` also removes
+its settings, library and caches.
