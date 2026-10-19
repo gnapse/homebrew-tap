@@ -2,7 +2,7 @@
 
 [Pixamp](https://pixamp.app), the Mac music player for classic Winamp skins.
 
-The first release is coming soon. Then:
+Install it with:
 
 ```sh
 brew install --cask gnapse/tap/pixamp
