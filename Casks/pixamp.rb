@@ -1,6 +1,6 @@
 cask "pixamp" do
-  version "1.1"
-  sha256 "7d7bcea26b76a561f9a31e2d8701cdfe5c09c198199c7607e60b75c214e3e982"
+  version "1.2"
+  sha256 "7047f0b6259fdec8742ef19804f01561c11b58943ed5557519ae65680926dc07"
 
   url "https://downloads.pixamp.app/Pixamp-#{version}.zip"
   name "Pixamp"
